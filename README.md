@@ -1,5 +1,14 @@
 # Vision-Based-Sudoku-Solver
 
+#Part of a group project (COMPUTER VISION : The Australian National University) :
+
+   Members : 
+   1. Harpragaas Singh
+   2. Satya Medicherla
+   3. Kaushik Ghosh
+   4. Nimish Magre
+
+
 #Project Aim - The overall project goal is to solve a sudoku puzzle, which is printed on a page, using computer vision techniques. The process reflects the concept of human-computer interaction because the information gained is not only obtained by computers but also enhanced with human activities.
 
 
